@@ -35,7 +35,7 @@ I'm always open to:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Felkimxd&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-contribution-graph.vercel.app/api/?username=Felkimxd&theme=tokyo-night" alt="GitHub contribution graph" />
 </p>
 
 <p align="center">
