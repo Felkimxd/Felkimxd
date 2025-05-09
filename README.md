@@ -31,13 +31,13 @@ I'm always open to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felkimxd&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felkimxd&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Felkimxd&theme=default" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Felkimxd&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkimxd&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkimxd&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
