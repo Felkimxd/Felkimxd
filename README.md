@@ -35,9 +35,5 @@ I'm always open to:
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=Felkimxd&theme=tokyo-night" alt="GitHub contribution graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkimxd&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
